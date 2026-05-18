@@ -56,7 +56,7 @@ jupyter notebook
 - Month-to-month contracts churn at ~43% vs 3% for two-year contracts.
 - Churned customers have median tenure of ~10 months vs ~38 months for stayers.
 - Churned customers pay more per month on average (~$74 vs $61).
-- Electronic check users churn at ~45% — highest of any payment method.
+- Electronic check users churn at ~45% - highest of any payment method.
 - Tenure and TotalCharges are highly correlated (r > 0.8); TotalCharges dropped.
 
 ## Engineered features
